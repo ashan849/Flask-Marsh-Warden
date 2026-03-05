@@ -1,0 +1,36 @@
+{
+  "session_id": "session-1768544807018",
+  "created_at": "2026-01-16T11:56:49.290169",
+  "updated_at": "2026-01-16T11:56:59.640701",
+  "title": "hi",
+  "messages": [
+    {
+      "id": "msg-1",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-01-16T11:56:49.290193"
+    },
+    {
+      "id": "msg-2",
+      "role": "assistant",
+      "content": "I apologize, but I encountered an error while processing your request. This could be due to:\n• High load on the AI service\n• Network connectivity issues\n• Temporary service unavailability\n\nPlease try again in a few moments.",
+      "sources": [],
+      "timestamp": "2026-01-16T11:56:49.290821",
+      "error": "TOKEN_UNAVAILABLE"
+    },
+    {
+      "id": "msg-3",
+      "role": "user",
+      "content": "why",
+      "timestamp": "2026-01-16T11:56:59.640052"
+    },
+    {
+      "id": "msg-4",
+      "role": "assistant",
+      "content": "I apologize, but I encountered an error while processing your request. This could be due to:\n• High load on the AI service\n• Network connectivity issues\n• Temporary service unavailability\n\nPlease try again in a few moments.",
+      "sources": [],
+      "timestamp": "2026-01-16T11:56:59.640683",
+      "error": "TOKEN_UNAVAILABLE"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "session_id": "session-1768492225083",
+  "created_at": "2026-01-15T21:20:31.512879",
+  "updated_at": "2026-01-16T11:52:06.481947",
+  "title": "hi",
+  "messages": [
+    {
+      "id": "msg-1",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-01-15T21:20:31.512891"
+    },
+    {
+      "id": "msg-2",
+      "role": "assistant",
+      "content": "<think>\nHmm, the user just said \"hi\" with minimal context. Let me check the provided documents to see if there's any relevant information that could form a professional greeting response. \n\nThe first document excerpt discusses pesticide control regulations in Sri Lanka, specifically prohibiting the sale of adulterated or deteriorated pesticides. The second excerpt from the National Climate Change Policy addresses climate-induced displacement and drought impacts. Neither contains greeting protocols or introductory content.\n\nSince this is likely an opening message, I'll structure a professional welcome that establishes my role while referencing the available document themes. The response should:\n- Acknowledge the greeting\n- Briefly state my function as a wetland policy advisor\n- Note the two available document themes (pesticide regulation and climate displacement)\n- End with an open-ended follow-up question\n\nThe tone must remain professional but approachable. I won't fabricate any capabilities beyond what the documents show, but can reasonably offer to discuss either topic since they're in the provided context. The follow-up question should invite direction without assuming expertise beyond these two documents.\n\nFor citations, I'll only reference the documents if discussing their specific content, which isn't necessary for this introductory response. The follow-up will mention both topics by name since they're the only available subjects.\n</think>\n\n**Overview**  \nWelcome! As your Wetland Conservation and Policy Advisory Assistant, I specialize in evidence-based guidance on wetland protection, restoration, and policy frameworks. Based on the documents provided, I can offer insights on:  \n1. **Pesticide regulations** (Control of Pesticides Act, 1980)  \n2. **Climate change impacts** like displacement and drought (National Climate Change Policy).  \n\n**Available Context Summary:**  \n- **Pesticide Regulation:**  \n  [Source: Control of Pesticides Act No. 33 of 1980.pdf, Page 4] prohibits the manufacture, distribution, or sale of adulterated, decomposed, or deteriorated pesticides in Sri Lanka. Non-compliant products risk being ineffective or hazardous.  \n- **Climate Displacement:**  \n  [Source: National Climate Change Policy.pdf, Page 30] identifies climate-induced displacement as a critical consequence of climate change, particularly in \"hotspots\" with limited adaptation resources. It emphasizes support for displaced communities and addresses drought impacts (water scarcity leading to environmental/socioeconomic crises).  \n\n**Follow-up:**  \nWould you like detailed analysis of how pesticide regulations intersect with wetland conservation, or how climate displacement policies relate to wetland-dependent communities?",
+      "sources": [
+        {
+          "filename": "Control of Pesticides Act No. 33 of 1980.pdf",
+          "page": 4,
+          "type": "paragraph",
+          "content": "15. No person shall manufacture, pack, Adulterated, distribute sell or offer for sale or deliver decomposed or. hi h'..... deteriorated Wit 10 t e country any pesticide, which is pesticides. adulterat"
+        },
+        {
+          "filename": "National Climate Change Policy.pdf",
+          "page": 30,
+          "type": "paragraph",
+          "content": "ŝƐƉůĂĐĞŵĞŶƚ ůŝŵĂƚĞͲŝŶĚƵĐĞĚ ĚŝƐƉůĂĐĞŵĞŶƚ ŝƐ ŽŶĞ ŽĨ ƚŚĞ ŵŽƐƚ ĚĞǀĂƐƚĂƚŝŶŐ ĐŽŶƐĞƋƵĞŶĐĞƐ ŽĨ ĐůŝŵĂƚĞ ĐŚĂŶŐĞ ƵĞ ƚŽ ĐůŝŵĂƚĞ ĐŚĂŶŐĞ ƌĞĨƵŐĞĞƐĂŶĚŝŶƚĞƌŶĂůůǇĚŝƐƉůĂĐĞĚƉĞŽƉůĞ/WƐͿĂƌĞĂĐůŝŵĂƚĞĞŵĞƌŐĞŶĐǇ DĂŶǇ ƉĞŽƉůĞ ůŝǀĞ"
+        }
+      ],
+      "timestamp": "2026-01-15T21:20:49.394326"
+    },
+    {
+      "id": "msg-3",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-01-16T11:52:06.481594"
+    },
+    {
+      "id": "msg-4",
+      "role": "assistant",
+      "content": "I apologize, but I encountered an error while processing your request. This could be due to:\n• High load on the AI service\n• Network connectivity issues\n• Temporary service unavailability\n\nPlease try again in a few moments.",
+      "sources": [],
+      "timestamp": "2026-01-16T11:52:06.481928",
+      "error": "TOKEN_UNAVAILABLE"
+    }
+  ]
+}

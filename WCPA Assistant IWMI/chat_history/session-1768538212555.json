@@ -1,0 +1,128 @@
+{
+  "session_id": "session-1768538212555",
+  "created_at": "2026-01-16T10:06:59.618266",
+  "updated_at": "2026-01-16T10:11:53.354606",
+  "title": "hi",
+  "messages": [
+    {
+      "id": "msg-1",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-01-16T10:06:59.618287"
+    },
+    {
+      "id": "msg-2",
+      "role": "assistant",
+      "content": "Sorry, all tokens failed.",
+      "sources": [
+        {
+          "rank": 1,
+          "filename": "Control of Pesticides Act No. 33 of 1980.pdf",
+          "page": 4,
+          "type": "paragraph",
+          "content": "15. No person shall manufacture, pack, Adulterated, distribute sell or offer for sale or deliver decomposed or. hi h'..... deteriorated Wit 10 t e country any pesticide, which is pesticides. adulterat",
+          "relevance_score": null
+        },
+        {
+          "rank": 2,
+          "filename": "National Climate Change Policy.pdf",
+          "page": 30,
+          "type": "paragraph",
+          "content": "ŝƐƉůĂĐĞŵĞŶƚ ůŝŵĂƚĞͲŝŶĚƵĐĞĚ ĚŝƐƉůĂĐĞŵĞŶƚ ŝƐ ŽŶĞ ŽĨ ƚŚĞ ŵŽƐƚ ĚĞǀĂƐƚĂƚŝŶŐ ĐŽŶƐĞƋƵĞŶĐĞƐ ŽĨ ĐůŝŵĂƚĞ ĐŚĂŶŐĞ ƵĞ ƚŽ ĐůŝŵĂƚĞ ĐŚĂŶŐĞ ƌĞĨƵŐĞĞƐĂŶĚŝŶƚĞƌŶĂůůǇĚŝƐƉůĂĐĞĚƉĞŽƉůĞ/WƐͿĂƌĞĂĐůŝŵĂƚĞĞŵĞƌŐĞŶĐǇ DĂŶǇ ƉĞŽƉůĞ ůŝǀĞ",
+          "relevance_score": null
+        }
+      ],
+      "timestamp": "2026-01-16T10:07:01.648940"
+    },
+    {
+      "id": "msg-3",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-01-16T10:07:26.515302"
+    },
+    {
+      "id": "msg-4",
+      "role": "assistant",
+      "content": "Sorry, all tokens failed.",
+      "sources": [
+        {
+          "rank": 1,
+          "filename": "Control of Pesticides Act No. 33 of 1980.pdf",
+          "page": 4,
+          "type": "paragraph",
+          "content": "15. No person shall manufacture, pack, Adulterated, distribute sell or offer for sale or deliver decomposed or. hi h'..... deteriorated Wit 10 t e country any pesticide, which is pesticides. adulterat",
+          "relevance_score": null
+        },
+        {
+          "rank": 2,
+          "filename": "National Climate Change Policy.pdf",
+          "page": 30,
+          "type": "paragraph",
+          "content": "ŝƐƉůĂĐĞŵĞŶƚ ůŝŵĂƚĞͲŝŶĚƵĐĞĚ ĚŝƐƉůĂĐĞŵĞŶƚ ŝƐ ŽŶĞ ŽĨ ƚŚĞ ŵŽƐƚ ĚĞǀĂƐƚĂƚŝŶŐ ĐŽŶƐĞƋƵĞŶĐĞƐ ŽĨ ĐůŝŵĂƚĞ ĐŚĂŶŐĞ ƵĞ ƚŽ ĐůŝŵĂƚĞ ĐŚĂŶŐĞ ƌĞĨƵŐĞĞƐĂŶĚŝŶƚĞƌŶĂůůǇĚŝƐƉůĂĐĞĚƉĞŽƉůĞ/WƐͿĂƌĞĂĐůŝŵĂƚĞĞŵĞƌŐĞŶĐǇ DĂŶǇ ƉĞŽƉůĞ ůŝǀĞ",
+          "relevance_score": null
+        }
+      ],
+      "timestamp": "2026-01-16T10:07:28.161971"
+    },
+    {
+      "id": "msg-5",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-01-16T10:09:56.900427"
+    },
+    {
+      "id": "msg-6",
+      "role": "assistant",
+      "content": "Sorry, all tokens failed.",
+      "sources": [
+        {
+          "rank": 1,
+          "filename": "Control of Pesticides Act No. 33 of 1980.pdf",
+          "page": 4,
+          "type": "paragraph",
+          "content": "15. No person shall manufacture, pack, Adulterated, distribute sell or offer for sale or deliver decomposed or. hi h'..... deteriorated Wit 10 t e country any pesticide, which is pesticides. adulterat",
+          "relevance_score": null
+        },
+        {
+          "rank": 2,
+          "filename": "National Climate Change Policy.pdf",
+          "page": 30,
+          "type": "paragraph",
+          "content": "ŝƐƉůĂĐĞŵĞŶƚ ůŝŵĂƚĞͲŝŶĚƵĐĞĚ ĚŝƐƉůĂĐĞŵĞŶƚ ŝƐ ŽŶĞ ŽĨ ƚŚĞ ŵŽƐƚ ĚĞǀĂƐƚĂƚŝŶŐ ĐŽŶƐĞƋƵĞŶĐĞƐ ŽĨ ĐůŝŵĂƚĞ ĐŚĂŶŐĞ ƵĞ ƚŽ ĐůŝŵĂƚĞ ĐŚĂŶŐĞ ƌĞĨƵŐĞĞƐĂŶĚŝŶƚĞƌŶĂůůǇĚŝƐƉůĂĐĞĚƉĞŽƉůĞ/WƐͿĂƌĞĂĐůŝŵĂƚĞĞŵĞƌŐĞŶĐǇ DĂŶǇ ƉĞŽƉůĞ ůŝǀĞ",
+          "relevance_score": null
+        }
+      ],
+      "timestamp": "2026-01-16T10:09:58.147112"
+    },
+    {
+      "id": "msg-7",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-01-16T10:11:40.984132"
+    },
+    {
+      "id": "msg-8",
+      "role": "assistant",
+      "content": "Sorry, all tokens failed.",
+      "sources": [
+        {
+          "rank": 1,
+          "filename": "Control of Pesticides Act No. 33 of 1980.pdf",
+          "page": 4,
+          "type": "paragraph",
+          "content": "15. No person shall manufacture, pack, Adulterated, distribute sell or offer for sale or deliver decomposed or. hi h'..... deteriorated Wit 10 t e country any pesticide, which is pesticides. adulterat",
+          "relevance_score": null
+        },
+        {
+          "rank": 2,
+          "filename": "National Climate Change Policy.pdf",
+          "page": 30,
+          "type": "paragraph",
+          "content": "ŝƐƉůĂĐĞŵĞŶƚ ůŝŵĂƚĞͲŝŶĚƵĐĞĚ ĚŝƐƉůĂĐĞŵĞŶƚ ŝƐ ŽŶĞ ŽĨ ƚŚĞ ŵŽƐƚ ĚĞǀĂƐƚĂƚŝŶŐ ĐŽŶƐĞƋƵĞŶĐĞƐ ŽĨ ĐůŝŵĂƚĞ ĐŚĂŶŐĞ ƵĞ ƚŽ ĐůŝŵĂƚĞ ĐŚĂŶŐĞ ƌĞĨƵŐĞĞƐĂŶĚŝŶƚĞƌŶĂůůǇĚŝƐƉůĂĐĞĚƉĞŽƉůĞ/WƐͿĂƌĞĂĐůŝŵĂƚĞĞŵĞƌŐĞŶĐǇ DĂŶǇ ƉĞŽƉůĞ ůŝǀĞ",
+          "relevance_score": null
+        }
+      ],
+      "timestamp": "2026-01-16T10:11:53.354490"
+    }
+  ]
+}
